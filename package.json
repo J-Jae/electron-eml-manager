@@ -1,0 +1,25 @@
+{
+  "name": "electron-eml-manager",
+  "version": "1.0.0",
+  "description": "EML Manager Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/J-Jae/electron-eml-manager",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Jae",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^10.1.5"
+  },
+  "dependencies": {
+    "node-notifier": "^8.0.0"
+  }
+}
